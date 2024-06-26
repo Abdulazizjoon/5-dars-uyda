@@ -40,6 +40,15 @@ body {
   width: 409px;
   /* height: 360px; */
 }
+.al{
+  width:150px;
+  height: 40px;
+  border-radius: 10px;
+  border: 0px;
+  margin-left: 100px;
+  font-size: 16px;
+  background-color: rgb(135, 135, 205);
+}
 .b{
   margin-left: 200px;
   width:600px;
